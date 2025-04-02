@@ -1,8 +1,8 @@
-<h1 align="left">Hey 👋 What's up?</h1>
+<h1 align="left">Hey 👋 I'm Marc!</h1>
 
 ###
 
-<p align="left">My name is Marc Noguera and I'm a Junior Developer, from Nemeda</p>
+<p align="left">Welcome to my GitHub – Junior Developer at Nemeda</p>
 
 ###
 
@@ -10,11 +10,11 @@
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: Learn<br>👀 I’m interested in AI<br>📫 How to reach me marc.noguera@nemeda.io<br>😄 Pronouns: HE/HIM/SHE/HER</p>
+<p align="left">💻 Currently working on: cool stuff with AI<br>🌱 Currently learning: swift apps and how to sleep more 😅<br>☕ Fun fact: I run on coffee<br>📍 Based in: Barcelona, where the tapas are better than your code<br>🗣️ Languages: English, Catalan, Spanish<br>👀 I’m interested in AI<br>📫 How to reach me marc.noguera@nemeda.io<br>💬 Preferred communication: Email – I like thoughtful replies<br>😄 Pronouns: he/him or she/her – both are fine</p>
 
 ###
 
-<h2 align="left">I have knowledge</h2>
+<h2 align="left">Stuff I use</h2>
 
 ###
 
@@ -41,6 +41,10 @@
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
 </div>
+
+###
+
+<p align="left">Find me on</p>
 
 ###
 
