@@ -1,14 +1,7 @@
 #  Sobre Mi 😌🫶🏻
 
-💻 **Ahora mismo:** Cacharreando con IA  
-🌱 **En marcha:** Apps en Swift y buscar ratitos para proyectos personales 😅  
-☕ **Fun fact:** el café es mi *runtime*  
-📍 **Desde:** Barcelona, Igualada  
-🗣️ **Idiomas:** Español · Catalán · Inglés  
-👀 **Me interesa:** IA (modelos, productos, todo)  
-📫 **Escríbeme:** marc.noguera@nemeda.io  
-💬 **Prefiero:** email — pensar las respuestas  
-😄 **Pronombres:** él — todo bien :)
+###### Me gusta el sushi si quieres invitarme 🍣
+
 
 ---
 
@@ -21,9 +14,10 @@
 | **React** | ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB) |
 | **Next.js** | ![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) |
 
-### ⚙️ Backend & Sistemas
+### ⚙️ Backend
 | Tecnología | Badge |
 |------------|-------|
+| **Python** | ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) |
 | **Linux** | ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) |
 | **Raspberry Pi** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=for-the-badge&logo=raspberrypi&logoColor=white) |
 
@@ -32,12 +26,6 @@
 |------------|-------|
 | **Swift** | ![Swift](https://img.shields.io/badge/Swift-FA7343?style=for-the-badge&logo=swift&logoColor=white) |
 | **Apple** | ![Apple](https://img.shields.io/badge/Apple-000000?style=for-the-badge&logo=apple&logoColor=white) |
-
-### 🎬 Animación & 3D
-| Tecnología | Badge |
-|------------|-------|
-| **Blender** | ![Blender](https://img.shields.io/badge/Blender-F5792A?style=for-the-badge&logo=blender&logoColor=white) |
-| **Maya** | ![Maya](https://img.shields.io/badge/Maya-0696D7?style=for-the-badge&logo=autodesk&logoColor=white) |
 
 ### 🔧 Herramientas
 | Tecnología | Badge |
@@ -64,4 +52,4 @@
 ---
 
 ### ✨ Gracias por pasarte por este espacio, voy poniendo cositas ;)
-###### Me gusta el sushi si quieres invitarme 🍣
+###### Dije enserio lo del sushi, invitame 🫵🏻
